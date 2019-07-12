@@ -1,0 +1,25 @@
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe.config
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.pdb
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\MetroFramework.Design.dll
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\MetroFramework.dll
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\MetroFramework.Fonts.dll
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\MetroFramework.pdb
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\MetroFramework.Fonts.pdb
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.csprojResolveAssemblyReference.cache
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ_þHŘÈÄKÈŘ_ÎÑJÊKTÕR__.Form1.resources
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ_þHŘÈÄKÈŘ_ÎÑJÊKTÕR__.Properties.Resources.resources
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.csproj.GenerateResource.Cache
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe
+c:\users\mrivai\documents\visual studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.pdb
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe.config
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.pdb
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.pdb
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.csprojResolveAssemblyReference.cache
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ_þHŘÈÄKÈŘ_ÎÑJÊKTÕR__.Form1.resources
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ_þHŘÈÄKÈŘ_ÎÑJÊKTÕR__.Properties.Resources.resources
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\obj\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.csproj.GenerateResource.Cache
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe.CodeAnalysisLog.xml
+C:\Users\mrivai89\Documents\Visual Studio 2013\Projects\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™\bin\Debug\ÇЎßÈŘ þHŘÈÄKÈŘ ÎÑJÊKTÕR ™.exe.lastcodeanalysissucceeded
